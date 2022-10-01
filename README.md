@@ -5,6 +5,8 @@ I'm Jenny, a budding software engineer with a background in mathematics and data
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning functional programming, data science and machine learning.
 
+[![jinkjonks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinkjonks)](https://github.com/anuraghazra/github-readme-stats)
+
 [![@jonkjonk's Holopin board](https://holopin.io/api/user/board?user=jonkjonk)](https://holopin.io/@jonkjonk)
 
 
