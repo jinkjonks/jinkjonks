@@ -7,6 +7,8 @@ Skills: PYTHON / SCALA / JAVA
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I also draw! 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kh5e5q72420aadpa715ryg9u4&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=kh5e5q72420aadpa715ryg9u4&redirect=true)
 
