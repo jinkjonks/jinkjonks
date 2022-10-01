@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there!
+
+[![@jonkjonk's Holopin board](https://holopin.io/api/user/board?user=jonkjonk)](https://holopin.io/@jonkjonk)
+
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning functional programming, data science and machine learning.
+
 
 <!--
 **jinkjonks/jinkjonks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
