@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jenny
 #### I'm a budding full-stack data scientist
 
-Skills: Python, Scala, Java
+Skills: Python, Scala, Java, C
 
 - 🌱 I’m currently learning functional programming, data engineering and machine learning 
 - 😄 Pronouns: she/her 
