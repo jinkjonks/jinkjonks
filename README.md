@@ -1,30 +1,16 @@
-### Hey there!
+### Hi there 👋, I'm Jenny
+#### I'm a budding full-stack data scientist
 
-I'm Jenny, a budding software engineer with a background in mathematics and data science.
+Skills: PYTHON / SCALA / JAVA
 
-- 😄 Pronouns: she/her
-- 🌱 I’m currently learning functional programming, data science and machine learning.
-- 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkjonks)](https://github.com/anuraghazra/github-readme-stats)
-
-[![jinkjonks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinkjonks)](https://github.com/anuraghazra/github-readme-stats)
-
-[![@jonkjonk's Holopin board](https://holopin.io/api/user/board?user=jonkjonk)](https://holopin.io/@jonkjonk)
+- 🌱 I’m currently learning functional programming, data engineering and machine learning 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I also draw! 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jinkjonks)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jennyjingjingli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jonkjonkdoodoos/)  
 
+![GitHub metrics](https://metrics.lecoq.io/jinkjonks)  
 
-<!--
-**jinkjonks/jinkjonks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jinkjonks)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
