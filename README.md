@@ -10,10 +10,10 @@ Skills: Python, Scala, Java, C
 <!--START_SECTION:waka-->
 
 ```text
-YAML             4 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-Scala            3 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
-Python           3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Other            1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+YAML             4 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+Scala            4 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Python           3 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Other            2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
 
 <!--END_SECTION:waka-->
