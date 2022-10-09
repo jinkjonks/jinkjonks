@@ -10,6 +10,8 @@ Skills: Python, Scala, Java, C
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 16 hrs 14 mins
+
 Scala            5 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.60 %
 YAML             4 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.52 %
 Python           2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
