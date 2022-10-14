@@ -8,6 +8,13 @@ Skills: Python, Scala, Java, C
 - ⚡ Fun fact: I also draw! 
 
 <!--START_SECTION:waka-->
+```text
+Scala      4 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.40 % 
+Python     2 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 % 
+YAML       1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+sbt        1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+textmate   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kh5e5q72420aadpa715ryg9u4&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=kh5e5q72420aadpa715ryg9u4&redirect=true)
