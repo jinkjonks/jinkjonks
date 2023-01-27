@@ -5,20 +5,12 @@ on:
     # Runs every 4 hours
     - cron: '0 */4 * * *'
   workflow_dispatch:
-
+  
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: miermontoto/waka-readme-stats@v5
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_SHORT_INFO: "False"
