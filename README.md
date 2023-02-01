@@ -10,16 +10,16 @@ Skills: Python, Scala, Java, C
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 31 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Total Time: 25 hrs 21 mins
+Total Time: 9 hrs 13 mins
 
-Python             4 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-TOML               3 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Scala              2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-YAML               2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Groovy             2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JSON               1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+TOML               2 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+Groovy             1 hr 58 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+Python             1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+YAML               1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Makefile           37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+JSON               18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
