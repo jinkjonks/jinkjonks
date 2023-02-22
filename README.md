@@ -3,6 +3,10 @@
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_mocha&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_mocha&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;)
 
+<a href="TechStack">
+  <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_mocha&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;" alt="My Tech Stack" />
+</a>
+
 - 🌱 I’m currently learning functional programming, data engineering and machine learning 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I also draw! 
