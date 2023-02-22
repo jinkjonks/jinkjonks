@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jenny
 #### I'm a budding full-stack data scientist
 
-Skills: Python, Scala, Java, C
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_mocha&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_mocha&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;)
 
 - 🌱 I’m currently learning functional programming, data engineering and machine learning 
 - 😄 Pronouns: she/her 
@@ -24,6 +24,4 @@ Gradle          32 mins         █▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kh5e5q72420aadpa715ryg9u4&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=kh5e5q72420aadpa715ryg9u4&redirect=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jinkjonks&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
