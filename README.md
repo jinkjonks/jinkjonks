@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2023 - To: 04 March 2023
+From: 04 March 2023 - To: 11 March 2023
 
-Total Time: 30 hrs 36 mins
+Total Time: 21 hrs 39 mins
 
-Python           15 hrs 7 mins   ████████████▒░░░░░░░░░░░░   49.39 %
-JavaScript       2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Docker           1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Groovy           1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-SQL              1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Makefile         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JavaScript         4 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+Python             4 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+SQL                2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Groovy             2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Java               2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Gradle             1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 ```
 
 <!--END_SECTION:waka-->
