@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
-Total Time: 21 hrs 27 mins
+Total Time: 21 hrs 52 mins
 
-Python             9 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   43.16 %
-Makefile           3 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-TOML               2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-YAML               2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Docker             1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-JSON               51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+YAML               4 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Python             4 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Java               3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Makefile           2 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Groovy             2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Docker             1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
