@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2023 - To: 22 April 2023
+From: 22 April 2023 - To: 29 April 2023
 
-Total Time: 14 hrs 54 mins
+Total Time: 18 hrs 39 mins
 
-JavaScript         3 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-Python             3 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Java               2 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-YAML               1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-Groovy             44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Makefile           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+YAML             4 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+JavaScript       3 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Java             3 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Python           1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Groovy           1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+JSON             59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
