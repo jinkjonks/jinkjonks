@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
-Total Time: 29 hrs 20 mins
+Total Time: 27 hrs 34 mins
 
-Python       12 hrs 3 mins   ██████████▒░░░░░░░░░░░░░░   41.12 %
-Lua          4 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-Makefile     3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-TOML         2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-YAML         1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Python           22 hrs 24 mins  ████████████████████▒░░░░   81.30 %
+TOML             1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Docker           1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JSON             58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+YAML             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
