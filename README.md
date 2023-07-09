@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-Total Time: 20 hrs 22 mins
+Total Time: 32 hrs 14 mins
 
-Python       9 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.01 %
-YAML         3 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-TOML         2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-JavaScript   1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Lua          1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+JavaScript       23 hrs 53 mins  ██████████████████▓░░░░░░   74.09 %
+Python           2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+YAML             1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Lua              1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JSON             1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
