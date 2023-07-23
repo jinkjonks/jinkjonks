@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2023 - To: 15 July 2023
+From: 15 July 2023 - To: 22 July 2023
 
-Total Time: 9 hrs 53 mins
+Total Time: 28 hrs 17 mins
 
-JavaScript       7 hrs 15 mins   ██████████████████▒░░░░░░   73.45 %
-YAML             1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Bash             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JSON             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-gitignore        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript       21 hrs 48 mins  ███████████████████▒░░░░░   77.11 %
+YAML             3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+JSON             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Bash             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
