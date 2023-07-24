@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2023 - To: 22 July 2023
+From: 30 September 2022 - To: 23 July 2023
 
-Total Time: 28 hrs 17 mins
+Total Time: 686 hrs 6 mins
 
-JavaScript       21 hrs 48 mins  ███████████████████▒░░░░░   77.11 %
-YAML             3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-JSON             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Bash             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Markdown         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Python              230 hrs 39 mins ████████▒░░░░░░░░░░░░░░░░   33.62 %
+JavaScript          91 hrs 33 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+YAML                67 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Scala               51 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TOML                43 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
