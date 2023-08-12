@@ -2,7 +2,7 @@
 #### I'm a budding full-stack data scientist
 
 <a href="TechStack">
-  <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=catppuccin_mocha&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;" alt="My Tech Stack" />
+  <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=rose_pine&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;" alt="My Tech Stack" />
 </a>
 
 - 🌱 I’m currently learning functional programming, data engineering and machine learning 
