@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Jenny
 #### I'm a budding full-stack data scientist
 
-<a href="TechStack">
-  <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineCount=1&theme=rose_pine&hideBg=true&line1=python,python,auto;scala,scala,auto;databricks,databricks,auto;apachespark,spark,auto;" alt="My Tech Stack" />
-</a>
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Roboto+&lineCount=1&theme=catppuccin_mocha&line1=amazonaws%2Caws%2C232F3E%3Bpython%2Cpython%2C3776AB%3Bscala%2Cscala%2CDC322F%3Bdatabricks%2Cdatabricks%2CFF3621%3Bpytorch%2Cpytorch%2CEE4C2C%3Bdocker%2Cdocker%2C2496ED%3B)
+
 
 - 🌱 I’m currently learning functional programming, data engineering and machine learning 
 - 😄 Pronouns: she/her 
