@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2022 - To: 16 March 2024
+From: 30 September 2022 - To: 22 March 2024
 
-Total Time: 942 hrs 46 mins
+Total Time: 951 hrs 32 mins
 
-Python              284 hrs 4 mins  ███████▓░░░░░░░░░░░░░░░░░   30.13 %
-JavaScript          192 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-YAML                107 hrs 53 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Scala               51 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-TOML                50 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Python              284 hrs 4 mins  ███████▒░░░░░░░░░░░░░░░░░   29.85 %
+JavaScript          192 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+YAML                109 hrs 19 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Scala               51 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+TOML                50 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->
