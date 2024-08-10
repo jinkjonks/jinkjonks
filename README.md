@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Jenny
 #### I'm a budding full-stack data scientist
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Roboto+&lineCount=2&titleAlign=center&align=center&theme=catppuccin_mocha&line1=python%2Cpython%2C3776AB%3Bscala%2Cscala%2CDC322F%3Bdatabricks%2Cdatabricks%2CFF3621%3Bdocker%2Cdocker%2C2496ED%3B&line2=amazonaws%2Caws%2C232F3E%3Bdatabricks%2CFF3621%3Bpytorch%2Cpytorch%2CEE4C2C%3Bmlflow%2Cmlflow%2C0194E2%3B)
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&fontFamily=sans-serif&lineCount=2&theme=catppuccin_mocha&line1=python%2Cpython%2C3776AB%3Bscala%2Cscala%2CDC322F%3Bterraform%2Cterraform%2C844FBA%3Bpostgresql%2Cpostgres%2C4169E1%3B&line2=amazonwebservices%2Caws%2Cf5e0dc%3Bgooglecloud%2Cgcp%2C4285F4%3Bdocker%2Cdocker%2C2496ED%3Bpulumi%2Cpulumi%2C8A3391%3B)
+
 
 
 - 🌱 I’m currently learning functional programming, data engineering and machine learning
