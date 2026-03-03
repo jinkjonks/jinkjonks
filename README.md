@@ -1,10 +1,15 @@
-### Hi there 👋, I'm Jenny
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&fontFamily=sans-serif&lineCount=2&theme=catppuccin_mocha&line1=python%2Cpython%2C3776AB%3Bscala%2Cscala%2CDC322F%3Bterraform%2Cterraform%2C844FBA%3Bpostgresql%2Cpostgres%2C4169E1%3B&line2=amazonwebservices%2Caws%2Cf5e0dc%3Bgooglecloud%2Cgcp%2C4285F4%3Bdocker%2Cdocker%2C2496ED%3Bpulumi%2Cpulumi%2C8A3391%3B)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jennyjingjingli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jennyli12320@gmail.com) 
 
-![I love working with](https://github-readme-tech-stack.vercel.app/api/cards?title=I+love+working+with&fontFamily=san-serif&lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=fastapi%2Cfastapi%2C009688%3Bpydantic%2Cpydantic%2CE92063%3Brye%2Crye%2Cf5e0dc%3B&line2=apachespark%2Cspark%2CE25A1C%3Bpytorch%2Ctorch%2CEE4C2C%3B&line3=starship%2Cstarship%2CDD0B78%3Blazyvim%2Clazyvim%2C2E7DE9%3Barchlinux%2Carch%2C1793D1%3B)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jinkjonks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jinkjonks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkjonks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--START_SECTION:waka-->
 
 ```txt
