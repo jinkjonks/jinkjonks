@@ -10,18 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkjonks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--START_SECTION:waka-->
-
-```txt
-From: 30 September 2022 - To: 17 October 2026
-
-Total Time: 2,894 hrs 31 mins
-
-Python               1,611 hrs 16 mins     ██████████████░░░░░░░░░░░   55.67 %
-YAML                 236 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-JavaScript           196 hrs 5 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-TOML                 149 hrs 1 min         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Markdown             84 hrs 15 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-```
-
-<!--END_SECTION:waka-->
